@@ -31,3 +31,17 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,c,git,linux,vscode,cmake,sqlite,markdown" />
 </p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saicharanbandaru26/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+
+  <a href="mailto:saicharanbandaru2008@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
+  </a>
+</p>
