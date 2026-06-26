@@ -23,3 +23,11 @@
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charanbandaru26&layout=compact&theme=github_dark&hide_border=true" />
 </p>
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,git,linux,vscode,cmake,sqlite,markdown" />
+</p>
