@@ -8,4 +8,4 @@
 - 🏫 VIT Vellore (Graduating in 2027)
 - 💻 Building CoreMetric-IX — an enterprise-grade real-time infrastructure and network monitoring platform using Modern C++.
 - 🌱 Exploring Systems Programming, Embedded Systems, Computer Networks and AI.
-- 🚀 Passionate about Modern C++, Systems Programming, Computer Networks and AI.
+- 🚀 Interested in solving real-world systems and infrastructure engineering problems.
